@@ -1,0 +1,12 @@
+train: ../train/images
+val: ../val/images
+nc: 3
+names:
+ 0: Watches
+ 1: Glasses
+ 2: Human Face
+
+# train: images/UPC/ORANGE
+# val: images/UPC/RED
+# nc: 2
+# names: ['UPC', 'BARCODE']
