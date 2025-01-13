@@ -37,3 +37,19 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 Will display ```(venv) C:\path\to\object_detection_app>```
 
 on your terminal
+
+
+
+# Run Video Processing
+
+Execute script on terminal
+```
+python .\src\main_open_cv2.py
+```
+
+# Run Image Processing
+
+Execute script on terminal
+```
+python .\src\main_image_processing.py
+```
